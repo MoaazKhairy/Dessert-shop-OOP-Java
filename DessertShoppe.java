@@ -5,7 +5,7 @@ package com.company;
 
 public class DessertShoppe {
 
-
+ 
     public final static double TAX_RATE = 6.5;        // 6.5%
     public final static String STORE_NAME = "M & M Dessert Shoppe";
     public final static int MAX_ITEM_NAME_SIZE = 25;

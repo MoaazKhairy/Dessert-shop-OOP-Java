@@ -3,7 +3,7 @@ package com.company;
 // TestCheckout.java - main method to test Checkout class
 //                         and GroceryItem hierarchy
 // Suzanne Balik, 2 Feb 2002
-
+ 
 public class TestCheckout {
 
     public static void main(String[] args) {

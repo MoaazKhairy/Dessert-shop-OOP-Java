@@ -3,7 +3,7 @@ package com.company;
 public class Cookie extends DessertItem {
     protected int number ;
     protected int price_per_dozen ;
-
+ 
     public Cookie(String name, int number, int price_per_dozen) {
         super(name);
         this.number = number;

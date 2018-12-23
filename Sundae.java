@@ -9,7 +9,7 @@ public class Sundae extends IceCream  {
         this.topping_cost = topping_cost;
         this.topping_name = topping_name;
 
-    }
+    } 
 
     @Override
     public int getCost() {

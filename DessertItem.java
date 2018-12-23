@@ -3,7 +3,7 @@ package com.company;
 // DessertItem.java - Dessert Item abstract superclass
 // Suzanne Balik, 25 Jun 2002
 
-
+ 
 /**
  * Abstract superclass for Dessert Item hierarchy
  * @author Suzanne Balik

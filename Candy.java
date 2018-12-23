@@ -1,5 +1,5 @@
 package com.company;
-
+ 
 public class Candy extends DessertItem  {
     protected double weight;
     protected int price_per_pound ;
